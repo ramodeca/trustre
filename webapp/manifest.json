@@ -1,0 +1,11 @@
+{
+	"name": "TrustRE",
+	"short_name": "TrustRE",
+	"description": "A marketplace where trust and real estate meets",
+	"lang": "en-GB",
+	"start_url": "/webapp",
+	"display": "standalone",
+	"theme_color": "#bf9000",
+	"background_color": "#ffffff",
+	"orientation": "portrait-primary"
+}
